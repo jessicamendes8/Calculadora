@@ -1,0 +1,16 @@
+C:\C# projetos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\C# projetos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\C# projetos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\C# projetos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\C# projetos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\C# projetos\Calculadora\Calculadora\obj\Debug\Calculadora.FrmCalculator.resources
+C:\C# projetos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\C# projetos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\C# projetos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\C# projetos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\C# projetos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\C# projetos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.manifest
+C:\C# projetos\Calculadora\Calculadora\bin\Debug\Calculadora.application
+C:\C# projetos\Calculadora\Calculadora\obj\Debug\Calculadora.TrustInfo.xml
+C:\C# projetos\Calculadora\Calculadora\obj\Debug\Calculadora.exe.manifest
+C:\C# projetos\Calculadora\Calculadora\obj\Debug\Calculadora.application
